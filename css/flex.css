@@ -1,1 +1,7 @@
 /* all css in flex html will be here */
+/* reset */
+* {
+  margin: 0;
+  padding: 2px;
+  box-sizing: border-box;
+}
